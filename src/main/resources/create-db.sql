@@ -1,0 +1,1 @@
+create table employee ( empId integer primary key, fName varchar, lName varchar , salary numeric(10,2), grade varchar, isContractor boolean);

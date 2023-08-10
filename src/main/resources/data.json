@@ -1,0 +1,30 @@
+[
+  {
+    "fName":"rmk1",
+    "lName":"gadhavi",
+    "salary":"4565.67",
+    "grade": "e3",
+    "isContractor": false
+  },
+  {
+    "fName":"rmk2",
+    "lName":"parikh",
+    "salary":"4565.67",
+    "grade": "e3",
+    "isContractor": false
+  },
+  {
+    "fName":"dev",
+    "lName":"patel",
+    "salary":"775.11",
+    "grade": "e2",
+    "isContractor": false
+  },
+  {
+    "fName":"nisha",
+    "lName":"kothari",
+    "salary":"56.65",
+    "grade": "e2",
+    "isContractor": false
+  }
+]
